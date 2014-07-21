@@ -6,8 +6,10 @@
  -->
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
   <head>
+    <title>Customer Maps</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-    <title>Google Maps API : Simple Geocoding</title>
+	<meta name="description" content="customer map - php indonesia kediri">
+	<meta name="author" content="teguhae37@gmail.com" >
     
     <script 
 		src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=AIzaSyCCozHnZDqprb-O-sWBAhH7uIxqkcGS0DU" 

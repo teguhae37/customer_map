@@ -1,7 +1,9 @@
 <html>
 <head>
-  
-  <title>Google Maps Multiple Markers</title>
+  <title>Customer Maps</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+	<meta name="description" content="customer map - php indonesia kediri">
+	<meta name="author" content="teguhae37@gmail.com" >
   <script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
 </head>
 <body>
