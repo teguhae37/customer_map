@@ -1,6 +1,9 @@
 customer_map
 ============
 Untuk menggunakan Customer-Map, ikuti langkah2 berikut ini
+<ol>
+<li>tguh</li>
+</ol>
 1. Import file customer.sql kedalam database mysql
 2. Ubah isi file class_db.php, sesuaikan username dan password database
 3. Untuk manajemen data customer menggunakan file cust.php
